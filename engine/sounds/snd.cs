@@ -12,4 +12,8 @@ class TestClass {
 			_time = value;
 		}
 	}
+
+	void Play() {
+		
+	}
 }
